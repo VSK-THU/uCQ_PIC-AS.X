@@ -1,0 +1,15 @@
+/build/
+/debug/
+/dist/
+#/*.*
+#!/*.h
+#!/*.c
+/*.err
+/*.bak
+/*.tmp
+/*.log
+/*.inx
+/funclist
+/nbproject/Makefile-*
+/nbproject/Package-*
+/nbproject/private/
